@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samukelo Khathi</h1>
+
 - 👀 I’m interested in:Front-end developement
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on software projects. Let's build something great together!
