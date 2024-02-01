@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: Samukelo khathi
-- 👀 I’m interested in: Frontend developement
+- 👀 I’m interested in: Web developement
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on software projects. Let's build something great together!
 - 📫 How to reach me: sbkhathi005@gmail.com
