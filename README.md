@@ -1,4 +1,4 @@
-
+- 👋 Hi, I'm samukelo khathi
 - 👀 I’m interested in:Front-end developement
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on software projects. Let's build something great together!
