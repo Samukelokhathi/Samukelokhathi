@@ -1,6 +1,6 @@
-- 👋 Hi, I'm samukelo khathi
-- 👀 I’m interested in:Front-end developement
-- 🌱 I’m currently learning Python and JavaScript
+- 👋 Hi, I'm Samukelo Khathi
+- 👀 I’m interested in:Back-end developement
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on software projects. Let's build something great together!
 - 📫 How to reach me: sbkhathi005@gmail.com
 
